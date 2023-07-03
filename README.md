@@ -1,1 +1,1 @@
-# Myntra-clone-janhavi.github.io
+# Myntra-clone-janhavi
